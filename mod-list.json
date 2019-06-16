@@ -1,0 +1,71 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "NuclearUPS",
+      "enabled": true
+    },
+    
+    {
+      "name": "OberNuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    }
+  ]
+}
