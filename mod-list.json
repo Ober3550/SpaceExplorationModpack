@@ -29,13 +29,18 @@
     },
     
     {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
       "name": "grappling-gun",
       "enabled": true
     },
     
     {
       "name": "NuclearUPS",
-      "enabled": true
+      "enabled": false
     },
     
     {
